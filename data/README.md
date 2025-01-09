@@ -9,4 +9,4 @@
 
 ## Disclaimer
 
-Please be aware that the data file within this repository are protected with password. This measure has been taken to prevent automatic scraping and unauthorized use, particularly for training language models (LLMs). We appreciate your understanding and cooperation in respecting these restrictions.
+Please be aware that the data file within this repository is protected with password. This measure has been taken to prevent automatic scraping and unauthorized use, particularly for training language models (LLMs). We appreciate your understanding and cooperation in respecting these restrictions.

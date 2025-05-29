@@ -30,6 +30,11 @@ A subset of erotic and ambiguous sentences, totaling **2,784 samples**, has been
 
 This subset has undergone additional copyright verification and was made available following legal consultations. The released data and its license comply with new legal regulations that came into effect after the data collection and annotation process had been completed. The published dataset will be gradually expanded.
 
+> ⚠️ **Content Warning**:  
+> This repository contains a dataset that includes erotic and potentially sensitive textual content intended strictly for research purposes. It is recommended for use by individuals aged 18 and older.  
+> The content has been annotated and curated in accordance with legal and ethical guidelines, and it is intended to support research on content moderation, natural language processing, and harmful content detection.
+
+
 ---
 
 ## Citation

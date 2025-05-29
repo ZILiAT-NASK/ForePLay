@@ -27,6 +27,7 @@ A subset of erotic and ambiguous sentences, totaling **2,784 samples**, has been
 ### ForePLay Dataset Release 1.0 Composition
 - **2,728 sentences** labeled as “*erotic*”
 - **976 sentences** labeled as “*ambiguous*”
+
 This subset has undergone additional copyright verification and was made available following legal consultations. The released data and its license comply with new legal regulations that came into effect after the data collection and annotation process had been completed. The published dataset will be gradually expanded.
 
 ---

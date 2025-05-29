@@ -24,6 +24,9 @@ Please note that the released dataset does not include the minor classes outline
 
 ---
 
+## Release 1.0
+We release...
+
 ## Citation
 If you make use of this dataset, please cite the following paper:
 

@@ -1,6 +1,6 @@
 # ForePLay: The Polish Dataset of Erotic Content
 
-<img src="imgs/img2.jpg" alt="screenshot" width="400" style="float: left">
+<img src="imgs/img2.png" alt="screenshot" width="400" style="float: left">
 
 
 We present **ForePLay**, a large-scale annotated corpus of Polish language content consisting of **24,583 sentences**. The dataset was systematically sampled from two primary sources:

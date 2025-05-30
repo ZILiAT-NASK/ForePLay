@@ -12,9 +12,9 @@ We present **ForePLay**, a large-scale annotated corpus of Polish language conte
 The annotation process involved a gender-balanced team of 6 annotators. Each sentence was annotated by three annotators, employing majority voting. In cases of complete disagreement, a superannotation process resolved discrepancies.
 
 ### ForePLay Dataset Composition
-- **6,361 sentences** labeled as “*erotic*”
-- **1,344 sentences** labeled as “*ambiguous*”
-- **16,878 sentences** labeled as “*neutral*”
+- **6,361 sentences** labeled as *erotic*
+- **1,344 sentences** labeled as *ambiguous*
+- **16,878 sentences** labeled as *neutral*
 
 For detailed annotation guidelines, refer to the accompanying publication:
 
@@ -25,8 +25,8 @@ Please note that the released dataset does not include the minor classes outline
 ## Release 1.0
 A subset of erotic and ambiguous sentences, totaling **2,784 samples**, has been released. 
 ### ForePLay Dataset Release 1.0 Composition
-- **2,728 sentences** labeled as “*erotic*”
-- **976 sentences** labeled as “*ambiguous*”
+- **2,728 sentences** labeled as *erotic*
+- **976 sentences** labeled as *ambiguous*
 
 This subset has undergone additional copyright verification and was made available following legal consultations. The released data and its license comply with new legal regulations that came into effect after the data collection and annotation process had been completed. The published dataset will be gradually expanded.
 

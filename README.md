@@ -23,7 +23,7 @@ For detailed annotation guidelines, refer to the accompanying publication:
 Please note that the released dataset does not include the minor classes outlined in the original data framework that pertain to sexual violence and socially unacceptable behaviors. Due to ethical considerations, we have chosen not to publish potentially harmful data.
 
 ## Release 1.0
-A subset of erotic and ambiguous sentences, totaling **2,784 samples**, has been released. 
+A subset of erotic and ambiguous sentences, totaling **3,704 samples**, has been released. 
 ### ForePLay Dataset Release 1.0 Composition
 - **2,728 sentences** labeled as *erotic*
 - **976 sentences** labeled as *ambiguous*

@@ -39,7 +39,7 @@ The password-protected data stored within a .zip file, along with the password i
 
 ## Disclaimer
 
-We have made every effort to comply with license requirements and respect the rights associated with all source materials included in the dataset. If you have any concerns or questions regarding the content, please feel free to contact the [Department of Linguistic Engineering and Text Analysis](ziliat@nask.pl). We will review and address them promptly.
+We have made every effort to comply with license requirements and respect the rights associated with all source materials included in the dataset. If you have any concerns or questions regarding the content, please feel free to contact the [Department of Linguistic Engineering and Text Analysis](mailto:ziliat@nask.pl?subject=[GitHub]%20ForePLay-Dataset). We will review and address them promptly.
 
 ---
 

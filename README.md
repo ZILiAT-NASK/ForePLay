@@ -30,6 +30,8 @@ A subset of erotic and ambiguous sentences, totaling **3,704 samples**, has been
 
 This subset has undergone additional copyright verification and was made available following legal consultations. The released data and its license comply with new legal regulations that came into effect after the data collection and annotation process had been completed. The published dataset will be gradually expanded.
 
+The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/ForePLay/tree/main/data).
+
 
 > ⚠️ **Content Warning**:  
 > This repository contains a dataset that includes erotic and potentially sensitive textual content intended strictly for research purposes. It is recommended for use by individuals aged 18 and older.  

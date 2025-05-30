@@ -37,6 +37,9 @@ The password-protected data stored within a .zip file, along with the password i
 > This repository contains a dataset that includes erotic and potentially sensitive textual content intended strictly for research purposes. It is recommended for use by individuals aged 18 and older.  
 > The content has been annotated and curated in accordance with legal and ethical guidelines, and it is intended to support research on content moderation, natural language processing, and harmful content detection.
 
+## Disclaimer
+
+We have made every effort to comply with license requirements and respect the rights associated with all source materials included in the dataset. If you have any concerns or questions regarding the content, please feel free to contact the [Department of Linguistic Engineering and Text Analysis](ziliat@nask.pl). We will review and address them promptly.
 
 ---
 

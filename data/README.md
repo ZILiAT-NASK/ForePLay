@@ -1,9 +1,9 @@
 ## Available File
 
 **ForePLay**
-   - Upload Date: 09.01.2025
-   - Rows: 24,583
-   - Classes: Neutral, Erotic, Ambiguous
+   - Upload Date: 30.05.2025
+   - Rows: 3,704
+   - Classes: Erotic (2,728), Ambiguous (976)
    - Password: `FORE_PL_AY`
 
 
